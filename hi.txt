@@ -1,6 +1,5 @@
 1. Gatis
 2. Olga
 3. Alisa
-5. hi
 4. Evita
-6. Test
+5. Test
